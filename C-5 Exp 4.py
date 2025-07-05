@@ -1,6 +1,6 @@
 import csv
-print("Name : Niranjana S Nair")
-print("Roll No: 47")
+print("Name : Aiswarya Sunil ")
+print("Admission No: A24MCA004")
 print("Experiment No: 18")
 
 columns_to_read = [0, 2]
