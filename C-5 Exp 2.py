@@ -1,5 +1,5 @@
-print("Name : Niranjana S Nair")
-print("Roll No: 47")
+print("Name : Aiswarya Sunil ")
+print("Admission No: A24MCA004")
 print("Experiment No: 16")
 
 with open("file.txt", "r") as infile, open("output.txt", "w") as outfile:
